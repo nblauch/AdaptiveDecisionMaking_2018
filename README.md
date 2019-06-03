@@ -41,13 +41,13 @@ Git is full of weird nonsense terminology. [**This tutorial**](http://rogerdudle
 - If you don't already have a github account, create one [**here**](https://github.com)
 - Install git command-line tools (see *setup* section [**here**](http://rogerdudler.github.io/git-guide/))
 
-#### Clone ADMCode
-* Open a terminal and `cd` to a directory where you want to download the ADMCode repo (example: `cd ~/Dropbox/Git/`)
-* Next, use `git` to `clone` the *remote* ADMCode repository to create a *local* repo on your machine
+#### Clone uPNC_verstynen
+* Open a terminal and `cd` to a directory where you want to download the exercise repo (example: `cd ~/git`)
+* Next, use `git` to `clone` the *remote* repository to create a *local* repo on your machine
 ```bash
 # make sure you've done steps 1 and 2
 # before executing this in your terminal
-git clone https://github.com/CoAxLab/AdaptiveDecisionMaking_2018.git
+git clone https://github.com/nblauch/uPNC_verstynen.git
 ```
 
 #### Pull updates
@@ -55,8 +55,8 @@ git clone https://github.com/CoAxLab/AdaptiveDecisionMaking_2018.git
 * In the command below, `origin` is the default name pointing to the remote repo on Github
 * `master` is the `branch` of the remote that you want to sync with
 ```bash
-# first cd into your local ADMCode repo
-# (same directory as step 1 in "Clone ADMCode" ^^^)
+# first cd into your local uPNC_verstynen repo
+# (same directory as step 1 in "Clone uPNC_verstynen" ^^^)
 git pull origin master
 ```
 
