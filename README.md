@@ -23,9 +23,9 @@ python -V
 ```
 
 ## create and activate a new conda environment for this exercise
-conda create -n upnc python=3.6 anaconda ipykernel
+```conda create -n upnc python=3.6 anaconda ipykernel
 source activate upnc
-
+```
 
 ## Install ADMCode package
 [**ADMCode**](https://pypi.org/project/ADMCode/) is a python package with custom code that can be used to complete the labs and homeworks (which will both be in the form of jupyter notebooks)
