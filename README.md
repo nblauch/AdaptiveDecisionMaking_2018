@@ -29,7 +29,7 @@ source activate upnc
 ```
 
 ## Install ADMCode package
-[**ADMCode**](https://pypi.org/project/ADMCode/) is a python package with custom code that can be used to complete the labs and homeworks (which will both be in the form of jupyter notebooks)
+[**ADMCode**](https://pypi.org/project/ADMCode/) is a python package with custom code that will be used in the assignment
 ```bash
 pip install --upgrade ADMCode
 ```
