@@ -24,7 +24,7 @@ python -V
 
 ## create and activate a new conda environment for this exercise
 ```bash
-conda create -n upnc python=3.6 anaconda ipykernel
+conda create -n upnc python=3.6 anaconda ipykernel numba
 source activate upnc
 ```
 
