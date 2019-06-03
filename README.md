@@ -1,5 +1,5 @@
-# AdaptiveDecisionMaking_2018 (ADM)
-Repository for code and lab resources for "Neural and Cognitive Models of Adaptive Decision Making" course (2018)
+# Exercise to accompany Tim Verstynen's talk
+Based on a repository for code and lab resources for Prof. V's "Neural and Cognitive Models of Adaptive Decision Making" course (2018)
 
 
 ### Jupyter notebooks [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/CoAxLab/AdaptiveDecisionMaking_2018/master)
