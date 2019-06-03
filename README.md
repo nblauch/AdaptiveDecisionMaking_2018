@@ -22,6 +22,9 @@ which python
 python -V
 ```
 
+## create and activate a new conda environment for this exercise
+conda create -n upnc python=3.6 anaconda ipykernel
+source activate upnc
 
 
 ## Install ADMCode package
@@ -29,7 +32,6 @@ python -V
 ```bash
 pip install --upgrade ADMCode
 ```
-
 
 
 ## Working with `git`
